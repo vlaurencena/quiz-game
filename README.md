@@ -34,9 +34,9 @@ cd quiz-game
 python3 main.py
 ```
 
-### Example Gameplay
-1. The game will display a question with four choices.
-2. The player will select their answer by typing the corresponding letter (A, B, C, or D).
-3. After each answer, the game will tell the player if they are correct or incorrect.
-4. The game will move to the next question until all questions have been answered.
-5. The player can choose to play again or finish the game.
+## Example Gameplay
+1. The game displays a question with four choices.
+2. The player selects their answer by typing the corresponding letter (A, B, C, or D).
+3. After each answer, the game tells the player if they are correct or incorrect.
+4. The game moves to the next question until all questions have been answered.
+5. The player chooses to play again or finish the game.
